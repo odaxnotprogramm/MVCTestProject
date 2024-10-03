@@ -3,7 +3,6 @@ package org.sab1maru.web.mvctestproject.controller;
 import org.sab1maru.web.mvctestproject.dto.ClubDto;
 import org.sab1maru.web.mvctestproject.models.Club;
 import org.sab1maru.web.mvctestproject.service.ClubService;
-import org.sab1maru.web.mvctestproject.service.impl.ClubServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
